@@ -1,0 +1,79 @@
+
+
+
+
+
+@media screen and (max-width:600px){
+    #nav1{
+        width: 100%;
+        height: 100px;
+        margin: 0;
+        padding-top: 5px 10px;
+        box-shadow: 0 0 4px gray;
+    }
+    #btn1{
+        
+        height: 60px;
+        margin-left: 20px;
+        margin-top: 10px;
+        border: 0;
+        font-size: 10px;
+        background: transparent;
+        border-radius: 3px;
+    }
+    #btn2{
+        border-radius: 3px;
+        
+        height: 60px;
+        margin-left:40px;
+        margin-top: 10px;
+        border: 0;
+        font-size: 10px;
+        background: transparent;
+    }
+      
+    #btn3{
+        border-radius: 3px;
+        
+        height: 60px;
+        margin-left:100px;
+        margin-top: 10px;
+        border: 0;
+        font-size: 10px;
+        background: transparent;
+    }
+    #sendani{
+        width: 100%;
+        height: 100%;
+        display: none;
+    }
+    #span1{
+        margin-top: 10px;
+        display: flex;
+        border: 0;
+        margin-left: 150px;
+        display: none;
+    
+    }
+    #inp1,#search1{
+        border: 0;
+        height: 36px;
+        background: transparent;
+        box-shadow:  0 0 1px black;
+        border-radius: 3px;
+    }
+    #search1{
+        height: 38px;
+    }
+    #settings{
+        position:fixed;
+        width: 100%;
+       height: 400px;
+        left: 99px;
+        border: 1px solid red;
+    }
+    
+
+    
+
+}
